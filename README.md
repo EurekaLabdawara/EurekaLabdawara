@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there, I'm Eureka or Eka for shorts 👋
 
 - 🔭 I’m currently working on My Own Portofolio Website
 - 🌱 I’m currently learning R and Software Architecture Fundamental
