@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on My Own Portofolio Website
+- 🌱 I’m currently learning R and Software Architecture Fundamental
+- 📫 How to reach me: DM me on Twitter first
 <!--
 **EurekaLabdawara/EurekaLabdawara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
