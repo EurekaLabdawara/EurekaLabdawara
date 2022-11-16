@@ -1,6 +1,6 @@
 ### Hello there, I'm Eureka or Eka for shorts 👋
 
-- 🔭 I’m currently working on My Own Portofolio Website besides working full time as IT Solution Designer
+- 🔭 I’m currently working on My Own Portofolio Website besides working freelancing as a developer
 - 📫 How to reach me: eurekalabdawara@gmail.com or DM me on Twitter
 - 🌱 Codewars Profile: https://www.codewars.com/users/EurekaLabdawara
 <!--
