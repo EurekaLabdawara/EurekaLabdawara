@@ -1,6 +1,6 @@
 ### Hello there, I'm Eureka or Eka for shorts 👋
 
-- 🔭 I’m currently working on My Own Portofolio Website besides working part-time as a full-stack developer
+- 🔭 I’m currently working on My Own Portofolio Website besides working on freelance projects and full time as a full-stack developer
 - 📫 How to reach me: eurekalabdawara@gmail.com
 - 🌱 Codewars Profile: [My Codewars Profiles](https://www.codewars.com/users/EurekaLabdawara)
 <img src='https://www.codewars.com/users/EurekaLabdawara/badges/large' alt='codewars-badge'>
